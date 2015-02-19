@@ -28,4 +28,8 @@ Once the file has been copied execute the following line to add admin privileges
 
 After this the executable should be ready for use on your system. You might need to add some Dll's from your MingW directory for this program to function properly.
 
+##Screenshots
+
+![screen 1](http://i.imgur.com/1JpNgxZ.png)
+![screen 2](http://i.imgur.com/74gpDpN.png)
 
