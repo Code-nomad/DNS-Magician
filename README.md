@@ -24,7 +24,7 @@ After compilation go to the path where the built exe now resides and copy the ma
 
 Once the file has been copied execute the following line to add admin privileges to the UAC of this executable. This is needed to be able to execute the Netsh commands as admin.
 
-mt.exe -nologo -manifest "DNSmagician.exe.manifest" -outputresource:"DNSmagician.exe;#1"
+`mt.exe -nologo -manifest "DNSmagician.exe.manifest" -outputresource:"DNSmagician.exe;#1"`
 
 After this the executable should be ready for use on your system. You might need to add some Dll's from your MingW directory for this program to function properly.
 
